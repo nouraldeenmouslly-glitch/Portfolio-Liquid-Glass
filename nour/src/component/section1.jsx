@@ -31,6 +31,15 @@ function Section1({ mood }) {
       type: "Frontend · Restaurant",
       live: "https://tubular-dango-3f3b72.netlify.app",
       github: githubProfile,
+    }, {
+      title: "Anime Card",
+      description:
+        "A premium Effict Card",
+      image: "/card8.jpg",
+      technologies:["React", "JavaScript", "Bootstrap", "CSS", "HTML"],
+      type: "Frontend · Restaurant",
+      live: "https://zingy-marigold-477832.netlify.app",
+      github: githubProfile,
     },
   ];
 
